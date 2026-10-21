@@ -1,0 +1,15 @@
+# Python >= 3.10. Core synthetic tests require no third-party packages.
+# Optional execution dependencies; this is not a historical lockfile.
+numpy
+openai
+tiktoken
+tqdm
+Pillow
+opencv-python
+transformers
+torch
+faster-whisper
+ultralytics
+moviepy
+litellm
+# Complete baseline sources are user-provided and are not bundled.
